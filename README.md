@@ -1,28 +1,72 @@
+# AI-Powered Workplace Productivity Assistant
+
+## Project Overview
+
+The AI-Powered Workplace Productivity Assistant is a Python-based application designed to improve workplace efficiency by automating common office tasks using Artificial Intelligence and prompt engineering.
+
+The assistant helps users perform repetitive productivity tasks quickly while demonstrating practical applications of AI in a professional environment.
+
+---
+
+## Features
+
+* Professional Email Generation
+* Meeting Summarization
+* Task Planning
+* Research Assistance
+* AI Chatbot Interaction
+
+---
+
+## Technologies Used
+
+* Python 3
+* Prompt Engineering
+* Git & GitHub
+* ChatGPT / Gemini (depending on project requirements)
+
+---
+
+## Project Structure
+
+```
 AI-Productivity-Assistant/
+│
+├── app.py
+├── prompts/
+├── examples/
+├── docs/
+├── assets/
+├── README.md
+└── requirements.txt
+```
 
-README.md
+---
 
-app.py
+## Objectives
 
-requirements.txt
+This project demonstrates:
 
-prompts/
+* AI-assisted workplace productivity
+* Prompt engineering techniques
+* Ethical and responsible AI use
+* Version control using Git and GitHub
+* Software development best practices
 
-    email_prompt.txt
+---
 
-    meeting_prompt.txt
+## Future Improvements
 
-    task_prompt.txt
+* Web interface
+* Voice assistant
+* Calendar integration
+* Microsoft Outlook integration
+* Google Workspace integration
 
-    research_prompt.txt
+---
 
-examples/
+## Author
 
-    sample_meeting.txt
+Jonathan Johnson
 
-    generated_email.txt
-
-docs/
-
-    Project_Report.md# AI-Productivity-Assistant
-An AI-powered assistant that automates workplace productivity tasks including email generation, meeting summarization, task planning, and research assistance.
+AI Skills Accelerator Programme
