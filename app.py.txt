@@ -1,0 +1,40 @@
+def main():
+    print("=" * 45)
+    print(" AI-Powered Workplace Productivity Assistant ")
+    print("=" * 45)
+
+    print("\nChoose an option:")
+
+    print("1. Generate Email")
+    print("2. Summarize Meeting")
+    print("3. Plan Tasks")
+    print("4. Research Assistant")
+    print("5. Chatbot")
+    print("6. Exit")
+
+    choice = input("\nEnter your choice: ")
+
+    if choice == "1":
+        print("Email Generator selected.")
+
+    elif choice == "2":
+        print("Meeting Summarizer selected.")
+
+    elif choice == "3":
+        print("Task Planner selected.")
+
+    elif choice == "4":
+        print("Research Assistant selected.")
+
+    elif choice == "5":
+        print("Chatbot selected.")
+
+    elif choice == "6":
+        print("Goodbye!")
+
+    else:
+        print("Invalid option.")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,15 @@
+You are a productivity coach.
+
+Create a prioritized task list.
+
+Organize tasks into:
+
+High Priority
+
+Medium Priority
+
+Low Priority
+
+Provide estimated completion times.
+
+Tasks:
