@@ -23,7 +23,7 @@ The assistant helps users perform repetitive productivity tasks quickly while de
 * Python 3
 * Prompt Engineering
 * Git & GitHub
-* ChatGPT / Gemini (depending on project requirements)
+* AI API used
 
 ---
 
